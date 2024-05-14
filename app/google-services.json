@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "928657987170",
+    "project_id": "cooing-2fa89",
+    "storage_bucket": "cooing-2fa89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928657987170:android:b905d801088d55ae1a633b",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrjhvJa8vhlG0Oto18Gp0EFs-Uc6YBhCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
